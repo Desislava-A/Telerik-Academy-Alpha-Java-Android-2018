@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd1a31a3-3724-43c2-9c03-27c1b4a0df60" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/description.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/project-template.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Practice.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Practice/com/company/CokiProducts.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/Practice/com/company/Main.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/CokiProducts.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/com/company/Main.java" />
-    </list>
+    <list default="true" id="bd1a31a3-3724-43c2-9c03-27c1b4a0df60" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
